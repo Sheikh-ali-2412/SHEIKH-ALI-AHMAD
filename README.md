@@ -60,7 +60,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 ![stars](https://img.shields.io/github/stars/Sheikh-ali-2412/SHEIKH-ALI-AHMAD?style=social)
 
 
-[![FORK SHEIKH-ALI-AHMAD](https://img.shields.io/badge/FORK%20-SILENT%20SOBX%20MD-white)](https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD/fork)
+[![FORK SHEIKH-ALI-AHMAD](https://img.shields.io/badge/FORK%20-SHEIKH%20ALI%20AHMAD-white)](https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD/fork)
 
 `⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
 
