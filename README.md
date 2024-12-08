@@ -113,12 +113,12 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 
 <br>
 
-`✠ HOW TO DEPLOY SHEIKH-ALI-AHMAD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
+`✠ HOW TO DEPLOY SHEIKH-ALI-AHMAD ON HEROKU WATCH VIDEO AND SUPPORT OUR WHATSAPP CHANNEL ✠`
 
 -------------
 
 <p align="center">
-   <a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+   <a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-whatsapp-sign-hd-png.png" alt="Watch tutorial on WhatsApp" border="0"  width="105">
     </a>
 </p>
 
@@ -251,7 +251,7 @@ jobs:
 -------------
 
 <p align="center">
-   <a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+   <a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-whatsapp-sign-hd-png.png" alt="Watch tutorial on WhatsApp" border="0"  width="105">
     </a>
 </p>
 
