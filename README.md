@@ -1,7 +1,7 @@
 ---------
 
 ### <br>  ❖ SHEIKH-ALI-AHMAD ❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY 𓄂𝕚𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ 2406`** 🔰
+🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY 𓄂𝕚𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ²⁴⁰⁶`** 🔰
 
 ----------
 
