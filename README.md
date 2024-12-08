@@ -99,11 +99,11 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 
 -----------
 
-`✠ IF YOU WANT MORE ABOUT SHEIKH-ALI-AHMAD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✠`
+`✠ IF YOU WANT MORE ABOUT SHEIKH-ALI-AHMAD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO FOLLOW OUR WHATSAPP CHANNEL FOR MORE INFORMATION CLICK THIS WHITE BUTTON 🔳 AND JOIN THE WHATSAPP CHANNEL ✠`
 
 ----------
 
-<a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img src="https://img.shields.io/badge/%20Whatsapp%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 --------------
 
@@ -251,7 +251,7 @@ jobs:
 -------------
 
 <p align="center">
-   <a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+   <a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img src="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
