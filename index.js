@@ -47,7 +47,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = config.PREFIX
 
-const ownerNumber = ['923096287432']
+const ownerNumber = ['923143702270']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -102,13 +102,13 @@ let up = `
 *╭┈───────────────•*
 *│  ◦* *_Congratulations Your Bot Active Successfully_*
 *│  ◦*
-*│  ◦* *❁ ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ❁*
-*│  ◦*
-*│  ◦* *https://chat.whatsapp.com/BobH0xeN4YQ6QAMELpk4i0*
-*│  ◦*
-*│  ◦* *❁ ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ❁*
+*│  ◦* *❁ 𝕁𝕠𝕚𝕟 𝕠𝕦𝕣 𝕎𝕙𝕒𝕥𝕤𝔸𝕡𝕡 𝕔𝕙𝕒𝕟𝕟𝕖𝕝 ❁*
 *│  ◦*
 *│  ◦* *https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B*
+*│  ◦*
+*│  ◦* *❁ 𝕁𝕠𝕚𝕟 𝕠𝕦𝕣 𝕎𝕙𝕒𝕥𝕤𝔸𝕡𝕡 𝕘𝕣𝕠𝕦𝕡 ❁*
+*│  ◦*
+*│  ◦* *https://chat.whatsapp.com/BobH0xeN4YQ6QAMELpk4i0*
 *╰┈───────────────•*
 *[ •  B O T  - R E P O ‎ • ]*
 *╭┈───────────────•*
