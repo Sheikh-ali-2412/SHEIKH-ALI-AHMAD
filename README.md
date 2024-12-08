@@ -81,12 +81,12 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 
 ### <br> ❖ FOR SUPPORT ❖
 
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME SILENT✠LOVER⁴³²࿐➺`**
+**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`**
 
 -------
 
 <p align="center">
-  <a href="https://wa.me/+923096287432?text=*ʜɪɪ+sɪʟᴇɴᴛʟᴏᴠᴇʀ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+923096287432?text=*ʜɪɪ+𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ꜱʜᴇɪᴋʜ-ᴀʟɪ-ᴀʜᴍᴀᴅ+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------    
