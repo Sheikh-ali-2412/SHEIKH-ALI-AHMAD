@@ -10,12 +10,12 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`SILENT+-+SOBX+-+MD+WHATSAPP+BOT`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`SHEIKH+-+ALI+-+AHMAD+WHATSAPP+BOT`" alt="">
 
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20SILENT%20LOVER%20432%20KING%20OF%20KINGS%20OWNER%20SILENT%20LOVER%20AND%20SOBIA%20BUTT♥️&image=https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg?v=4&backgroundColor=%23ecf0f1&github=Sheikh-ali-24124&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20SHEIKH%20ALI%202406%20KING%20OF%20KINGS%20OWNER%20SHEIKH%20ALI%20AND%20AHMAD♥️&image=https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg?v=4&backgroundColor=%23ecf0f1&github=Sheikh-ali-24124&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
@@ -274,7 +274,7 @@ jobs:
 
 -----------
 
-***⚠️THANKS FOR USING SHEIKH-ALI-AHMAD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SHEIKH-ALI-AHMAD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY Sheikh-ali-2412432 KING OF WHATSAPP♥️☣️🥂***
+***⚠️THANKS FOR USING SHEIKH-ALI-AHMAD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SHEIKH-ALI-AHMAD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY Sheikh-ali-2406 KING OF WHATSAPP♥️☣️🥂***
 
 ------------
 
