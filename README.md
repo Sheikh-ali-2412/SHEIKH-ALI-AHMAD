@@ -1,7 +1,7 @@
 ---------
 
 ### <br>  ❖ SHEIKH-ALI-AHMAD ❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY 𓄂𝕚𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ²⁴⁰⁶`** 🔰
+🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ²⁴⁰⁶`** 🔰
 
 ----------
 
@@ -265,7 +265,7 @@ jobs:
 
 ---------
 
-![IMG-20240330-WA0000](https://github.com/user-attachments/assets/62d3bffd-d1ec-4cb9-a5b1-28b745b90a90)
+![IMG-20241008-WA0043](https://github.com/user-attachments/assets/62d3bffd-d1ec-4cb9-a5b1-28b745b90a90)
 -------------------
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
