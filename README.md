@@ -98,6 +98,9 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <a href="https://express-pairing-code2-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-2:-black?style=for-the-badge&logo=render"></a>
 <p/>
+*Now get your inbox and copy sessino id*
+
+*If you past session id in (config.js/SESSION_ID || "past_copy_text")*
 
 ----------
 </a>
@@ -155,28 +158,6 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
    <a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
-
----------------
-
-
-### <br>    ❖ SESSION_ID ❖
-
-
-`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
-
-----------
-
-<p align="center">
-<a href="https://webpair-mega-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
-<p/>
-
-----------
-
-----------
-
-<p align="center">
-<a href="https://express-pairing-code2-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-2:-black?style=for-the-badge&logo=render"></a>
-<p/>
 
 ----------
 
