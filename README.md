@@ -25,11 +25,13 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <br>
 
 --------
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <a href="hhttps://github.com/Sheikh-ali-2412/"><img title="Followers" src="https://img.shields.io/github/followers/SHEIKH_ALI_AHMAD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sheikh-ali-2412/SHEIKH-ALI-AHMAD?color=blue&style=flat-square"></a>
@@ -39,10 +41,13 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 </p>
 <p align='center'>
 </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ----------
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <div align="center"><br> <img src="https://profile-counter.glitch.me/SHEIKH-ALI-AHMAD/count.svg" /><br>SHEIKH-ALI-AHMAD</div>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ------------
 
@@ -51,7 +56,10 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 
 --------------
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ----------------
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -84,6 +92,8 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 `✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ----------
 
