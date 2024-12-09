@@ -168,17 +168,10 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 `✠ HOW TO DEPLOY SHEIKH-ALI-AHMAD  WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
--------------
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p align="center">
    <a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-----------
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 </details>
