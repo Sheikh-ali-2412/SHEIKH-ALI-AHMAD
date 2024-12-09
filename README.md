@@ -5,7 +5,7 @@
 
 ----------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 -------
 
