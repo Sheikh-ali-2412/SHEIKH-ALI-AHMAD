@@ -116,7 +116,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 
 <br>
 
-`✠ HOW TO DEPLOY SHEIKH-ALI-AHMAD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
+`✠ HOW TO DEPLOY SHEIKH-ALI-AHMAD WITH WORKFLOWS WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
 
 -------------
 
@@ -152,17 +152,6 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 ### <br>    ❖ DEPLOY_REPLIT ❖
 
 `✠ IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY SHEIKH-ALI-AHMAD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT ✠`
-
--------------
-
-<p align="left"><a href="https://repl.it/github/Sheikh-ali-2412/SHEIKH-ALI-AHMAD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
------------
-
-</details>
-<hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+SHEIKH_ALI" alt="">
-<hr>
 
 ----------
 
