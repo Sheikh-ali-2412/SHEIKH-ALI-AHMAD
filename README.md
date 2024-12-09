@@ -22,10 +22,9 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+SHEIKH_ALI_AHMAD...;Created+by+SHEIKH+ALI...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thanks+You+For+Using+SHEIKH-ALI-AHMAD..."
 
 <br>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <br>
 
