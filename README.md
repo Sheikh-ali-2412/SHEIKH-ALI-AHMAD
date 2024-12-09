@@ -21,6 +21,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+SHEIKH_ALI_AHMAD...;Created+by+SHEIKHALI...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thanks+You+For+Using+SHEIKH-ALI-AHMAD..."
 
 <br>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
@@ -192,10 +193,6 @@ jobs:
     - name: Start application
       run: npm start
 ```
-
------------
-
-
 
 -------------
 
