@@ -101,10 +101,6 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 
 ----------
 </a>
-❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀
-</p>
-
------------------
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
