@@ -17,11 +17,6 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+SHEIKH_ALI_AHMAD...;Created+by+SHEIKH+ALI...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thanks+You+For+Using+SHEIKH-ALI-AHMAD..."
 
 <br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-<br>
-
---------
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p align="center">
@@ -34,18 +29,8 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 <p align='center'>
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-----------
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <div align="center"><br> <img src="https://profile-counter.glitch.me/SHEIKH-ALI-AHMAD/count.svg" /><br>SHEIKH-ALI-AHMAD</div>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
---------------
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
 
 *Tap to Fork button and create new fork*
 
@@ -60,13 +45,6 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 
 
 [![FORK SHEIKH-ALI-AHMAD](https://img.shields.io/badge/FORK%20-SHEIKH%20ALI%20AHMAD-white)](https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD/fork)
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-----------------
-`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
-
----------------
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%"> 
 
 *Click the SESSION_ID Button*
