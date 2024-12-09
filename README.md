@@ -55,7 +55,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 
 ----------------
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h4>Tap to Fork button and create new fork
+*Tap to Fork button and create new fork*
 
  
  ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSheikh-ali-2412%2FSHEIKH-ALI-AHMAD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
@@ -68,14 +68,17 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 
 
 [![FORK SHEIKH-ALI-AHMAD](https://img.shields.io/badge/FORK%20-SHEIKH%20ALI%20AHMAD-white)](https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD/fork)
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<a><img 
+src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ----------------
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 ---------------
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
-<h4>Click the SESSION_ID Button</h4>
+
+*Click the SESSION_ID Button*
 
 ### <br>    ❖ SESSION_ID ❖
 
