@@ -178,27 +178,36 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 --------------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ### <br> ❖ DEPLOY  METHOD ❖
 
 <br>
 
 `✠ HOW TO DEPLOY SHEIKH-ALI-AHMAD  WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 -------------
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
    <a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ----------
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </details>
 <hr>
 <img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+SHEIKH+ALI" alt="">
 <hr>
 
 ----------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <br>   ❖ DEPLOY_WORKFLOWS ❖
 ```
