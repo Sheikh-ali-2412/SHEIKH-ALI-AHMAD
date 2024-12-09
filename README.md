@@ -194,19 +194,7 @@ jobs:
       run: npm start
 ```
 
--------------
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-------------
-
-`⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
-
----------
-
-![IMG-20240330-WA0000](https://github.com/user-attachments/assets/62d3bffd-d1ec-4cb9-a5b1-28b745b90a90)
-
--------------------
+-----------
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
