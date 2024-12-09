@@ -64,8 +64,6 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 <p/>
 
  *Now get your inbox and copy sessino id*
-
-*If you past session id in (config.js/SESSION_ID || "past_copy_text")*
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ### <br>  ❖ FOR SUPPORT ❖
@@ -103,11 +101,8 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 </details>
 <hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+SHEIKH+ALI" alt="">
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+SHEIKH+ALI+AHMAD+FAROOQ" alt="">
 <hr>
-
-----------
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ### <br>   ❖ DEPLOY_WORKFLOWS ❖
@@ -147,19 +142,11 @@ jobs:
       run: npm start
 ```
 
------------
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
------------
 
 ***⚠️THANKS FOR USING SHEIKH-ALI-AHMAD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SHEIKH-ALI-AHMAD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ KING OF WHATSAPP♥️☣️🥂***
-
-------------
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 ![license](https://img.shields.io/github/license/Sheikh-ali-2412/SHEIKH-ALI-AHMAD?color=green&label=License&style=plastic)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-----------
 
