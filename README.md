@@ -54,7 +54,6 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 ----------------
-<h3> How To Deploy </h3>
 <h5> First tap to Fork button and create new fork<
 
  
