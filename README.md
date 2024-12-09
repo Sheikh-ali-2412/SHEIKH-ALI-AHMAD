@@ -68,21 +68,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-----------
-</a>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-🥂 `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🥂 **[Baileys](https://github.com/WhiskeySockets/Baileys)**
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-------------------
-
-`⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
-
------------------
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-### <br> ❖ FOR SUPPORT ❖
+### <br>  ❖ FOR SUPPORT ❖
 
 **`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`**
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
