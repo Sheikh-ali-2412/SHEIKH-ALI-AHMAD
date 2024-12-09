@@ -90,7 +90,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 -------
 
 <p align="center">
-  <a href="https://wa.me/+923096287432?text=*ʜɪɪ+𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ꜱʜᴇɪᴋʜ-ᴀʟɪ-ᴀʜᴍᴀᴅ+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+923143702270?text=*ʜɪɪ+𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ꜱʜᴇɪᴋʜ-ᴀʟɪ-ᴀʜᴍᴀᴅ+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------    
