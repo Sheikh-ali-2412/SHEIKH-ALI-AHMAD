@@ -105,48 +105,55 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ----------
 </a>
+❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀
 </p>
 
 -----------------
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 🥂 `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🥂 **[Baileys](https://github.com/WhiskeySockets/Baileys)**
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ------------------
 
 `⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
 
 -----------------
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ### <br> ❖ FOR SUPPORT ❖
 
 **`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`**
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 -------
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://wa.me/+923143702270?text=*ʜɪɪ+𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ꜱʜᴇɪᴋʜ-ᴀʟɪ-ᴀʜᴍᴀᴅ+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 -----------    
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 `✠  CLICK THIS RED BUTTON 🔳 AND JOIN OUR CHANNEL ✠`
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ---------
-
 <a href="[https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B](https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B)"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 -----------
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 `✠  CLICK THIS BLUE BUTTON 🔳 AND JOIN OUR YOUTUBE CHANNEL ✠`
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ----------
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 --------------
 
-`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+--------------
 ### <br> ❖ DEPLOY  METHOD ❖
 
 <br>
@@ -216,8 +223,9 @@ jobs:
 ***⚠️THANKS FOR USING SHEIKH-ALI-AHMAD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SHEIKH-ALI-AHMAD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ KING OF WHATSAPP♥️☣️🥂***
 
 ------------
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ![license](https://img.shields.io/github/license/Sheikh-ali-2412/SHEIKH-ALI-AHMAD?color=green&label=License&style=plastic)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ----------
 
