@@ -52,6 +52,8 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 --------------
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+
+----------------
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h5> First tap to Fork button and create new fork<
 
@@ -67,7 +69,8 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 
 [![FORK SHEIKH-ALI-AHMAD](https://img.shields.io/badge/FORK%20-SHEIKH%20ALI%20AHMAD-white)](https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD/fork)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-`⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
+----------------
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 ---------------
 
@@ -112,7 +115,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 
 --------------
 
-`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 ### <br> ❖ DEPLOY  METHOD ❖
 
