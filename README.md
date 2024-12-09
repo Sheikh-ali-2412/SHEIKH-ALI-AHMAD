@@ -1,6 +1,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ### <br>   ❖ SHEIKH-ALI-AHMAD ❖
+
 🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼²⁴⁰⁶`** 🔰
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -65,47 +66,29 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
  *Now get your inbox and copy sessino id*
 
 *If you past session id in (config.js/SESSION_ID || "past_copy_text")*
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ### <br>  ❖ FOR SUPPORT ❖
 
 **`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`**
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
--------
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p align="center">
   <a href="https://wa.me/+923143702270?text=*ʜɪɪ+𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ꜱʜᴇɪᴋʜ-ᴀʟɪ-ᴀʜᴍᴀᴅ+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
------------    
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
 `✠  CLICK THIS RED BUTTON 🔳 AND JOIN OUR CHANNEL ✠`
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
----------
 <a href="[https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B](https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B)"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
------------
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 `✠  CLICK THIS BLUE BUTTON 🔳 AND JOIN OUR YOUTUBE CHANNEL ✠`
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-----------
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 ### <br> ❖ DEPLOY  METHOD ❖
 
 <br>
