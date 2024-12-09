@@ -95,15 +95,15 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 
 -----------    
 
-`✠ IF YOU WANT MORE ABOUT SHEIKH-ALI-AHMAD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ✠`
+`✠  CLICK THIS RED BUTTON 🔳 AND JOIN OUR CHANNEL ✠`
 
 ---------
 
-<a href="https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="[https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B](https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B)"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 -----------
 
-`✠ IF YOU WANT MORE ABOUT SHEIKH-ALI-AHMAD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✠`
+`✠  CLICK THIS BLUE BUTTON 🔳 AND JOIN OUR YOUTUBE CHANNEL ✠`
 
 ----------
 
@@ -113,11 +113,11 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 
 `✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠
 
-### <br> ❖ DEPLOY AND SESSION METHOD ❖
+### <br> ❖ DEPLOY  METHOD ❖
 
 <br>
 
-`✠ HOW TO DEPLOY SHEIKH-ALI-AHMAD ON WORKFLOWS WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
+`✠ HOW TO DEPLOY SHEIKH-ALI-AHMAD  WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
 
 -------------
 
@@ -152,7 +152,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 
 </details>
 <hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha_Min" alt="">
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+SHEIKH+ALI" alt="">
 <hr>
 
 ----------
