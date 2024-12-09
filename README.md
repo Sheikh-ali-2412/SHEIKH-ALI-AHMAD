@@ -54,11 +54,10 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 ----------------
+<h3> How To Deploy </h3>
+<h5> First tap to Fork button and create new fork<
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-----------------
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSheikh-ali-2412%2FSHEIKH-ALI-AHMAD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+ ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSheikh-ali-2412%2FSHEIKH-ALI-AHMAD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
 ![forks](https://img.shields.io/github/forks/Sheikh-ali-2412/SHEIKH-ALI-AHMAD?label=Forks&style=social)
