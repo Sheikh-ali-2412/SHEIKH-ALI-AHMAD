@@ -39,9 +39,6 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 <p align='center'>
 </p>
 
------------
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 ----------
 
 <div align="center"><br> <img src="https://profile-counter.glitch.me/SHEIKH-ALI-AHMAD/count.svg" /><br>SHEIKH-ALI-AHMAD</div>
@@ -103,6 +100,8 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
 *Now get your inbox and copy sessino id*
 
 *If you past session id in (config.js/SESSION_ID || "past_copy_text")*
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ----------
 </a>
