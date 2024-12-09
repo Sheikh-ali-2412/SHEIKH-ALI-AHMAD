@@ -18,7 +18,7 @@
 src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20SHEIKH%20ALI%20AHMAD%20KING%20OF%20KINGS%20OWNER%20SHEIKH%20ALI%20AHMAD%20AND%20UMAIR%20BOSS♥️&image=https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg?v=4&backgroundColor=%23ecf0f1&github=SHEIKH_ALI_2406&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+SHEIKH_ALI_AHMAD...;Created+by+𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰🔥༽༼...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+SHEIKH-ALI-AHMAD..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+SHEIKH_ALI_AHMAD...;Created+by+SHEIKHALI...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+SHEIKH-ALI-AHMAD..."
 
 <br>
 
