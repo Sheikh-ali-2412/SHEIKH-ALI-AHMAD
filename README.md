@@ -45,13 +45,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 --------------
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-----------------
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 *Tap to Fork button and create new fork*
 
