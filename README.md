@@ -10,7 +10,7 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=F00&center=true&vCenter=true&multiline=false&lines=`SHEIKH+-+ALI+-+AHMAD+WHATSAPP+BOT`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=F00&center=true&vCenter=true&multiline=false&lines=`HELLO+-+IM+-+SHEIKH+-+ALI+-+WHATSAPP+-+BOT+-+DEVELOPER`" alt="">
 
 ------------
 
