@@ -7,6 +7,7 @@
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&center=true&vCenter=true&multiline=false&lines=`SHEIKH+ALI+WHATSAPP+BOT+DEVELOPER`" alt="">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 ------------
 
 <img align="center" height="auto"
