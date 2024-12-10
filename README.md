@@ -154,6 +154,6 @@ jobs:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
-| Ali Ahmad Farooq 👤          |                        
+| 𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃 𝐅𝐀𝐑𝐎𝐎𝐐 👤          |                        
 |----------------------|
-| [![Owner](https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
+| [![Owner](https://www.imghippo.com/i/hbIR5004qVk.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
