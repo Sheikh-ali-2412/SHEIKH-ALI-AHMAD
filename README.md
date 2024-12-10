@@ -74,8 +74,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 
 <p align="center">
   <a href="https://wa.me/+923143702270?text=*ʜɪɪ+𓄂𝕚𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ꜱʜᴇɪᴋʜ-ᴀʟɪ-ᴀʜᴍᴀᴅ+ʀᴇᴘᴏ!!*" target="_blank">
-    <img align="left" alt="MALVIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
-  
+    <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 -----------
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -157,9 +156,3 @@ jobs:
 |--------------------------------|
 | [![Owner](https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-
-<p align="centre">
-  <a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B">
-    <img align="left" alt="MALVIN | YouTube" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/YouTube.svg" />
-  
