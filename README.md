@@ -157,4 +157,3 @@ jobs:
 |--------------------------------|
 | [![Owner](https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
