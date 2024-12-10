@@ -11,7 +11,7 @@ contact me 923143702270 ♻️
 const config = require('../config')
 const {cmd , commands} = require('../command')
 cmd({
-    pattern: "menu2",
+    pattern: "sheikh2",
     react: "👾",
     desc: "get cmd list",
     category: "main",
