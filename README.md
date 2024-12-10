@@ -152,3 +152,8 @@ jobs:
 ***⚠️THANKS FOR USING SHEIKH-ALI-AHMAD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SHEIKH-ALI-AHMAD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ KING OF WHATSAPP♥️☣️🥂***
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+
+| Ali Ahmad Farooq 👤          |                        
+|----------------------|
+| [![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
