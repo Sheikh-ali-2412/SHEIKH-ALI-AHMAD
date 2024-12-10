@@ -99,7 +99,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 `✠ HOW TO DEPLOY SHEIKH-ALI-AHMAD  WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
 
 <p align="center">
-   <a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><<img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+   <a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
