@@ -12,7 +12,7 @@ const config = require('../config')
 const {cmd , commands} = require('../command')
 cmd({
 
-    pattern: "menu3",
+    pattern: "sheikh3",
 
     react: "🛸",
 
@@ -22,7 +22,7 @@ cmd({
 
     category: "main",
 
-    use: '.menu3',
+    use: '.sheikh3',
 
     filename: __filename
 
@@ -96,10 +96,10 @@ let madeMenu = `❁ ════ ❃•◯•❃ ════ ❁
 │📖 COMMAND: .ping
 │ℹ️ Check bot speed
 │  
-│📖 COMMAND: .menu
+│📖 COMMAND: .sheikh
 │ℹ️ Nero main menu
 │
-│📖 COMMAND: .menu2
+│📖 COMMAND: .sheikh2
 │ℹ️ Nero main menu2
 │ 
 │📖 COMMAND: .ai
