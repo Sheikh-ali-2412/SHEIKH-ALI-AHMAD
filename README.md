@@ -150,7 +150,7 @@ jobs:
 
 | 𝐎𝐖𝐍𝐄𝐑: 𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃 𝐅𝐀𝐑𝐎𝐎𝐐 👤 |                        
 |--------------------------------|
-| [![Owner]([https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%221000003900.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222024-12-14T18%3A31%3A27.185Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2Fa78c08cc6ae54d85%2F1000003900.jpg%3FExpires%3D1734201087%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DiSc6eHN~3L4bFypyiJrRGsN3Hw8SJuHWZDX7cvzuZmgpBfgqJ2Lxq9jTJ5NZNz5Py493rxtB2G1JJVA2-1KRRLjcj~xoJxhxBv1XFZanAhuiQjJmw9A0kd4YZUFsp2K4J6Kxx6na3Ez6zKmdWF1K7lnNT4P7DyH0O2nuZHwNx75rB9bBOYxQ3TwMR~k8Hx1Jlz7aeHtxr3IaTtWKCpl48XSdiUmjqcOr5sHVasehu3pOTR07NPiQ6GL79dJ7UfBKH61pwmYNM1eDuYt4357jQW0u8eQY7tGfqcBdvTa8rYXFhwjAWLKZRu65YOmMp5Qp530bLcYxIdn8oE-RYQNGew__%22%7D))](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
+| [![Owner](https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 ***⚠️THANKS FOR USING SHEIKH-ALI-AHMAD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SHEIKH-ALI-AHMAD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ KING OF WHATSAPP♥️☣️🥂***
