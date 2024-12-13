@@ -14,6 +14,7 @@ cmd({
     alias: ["sheikh", "king"],
     desc: "Get owner number",
     category: "main",
+    use ".sheikh",
     filename: __filename
 }, 
 async (conn, mek, m, { from }) => {
