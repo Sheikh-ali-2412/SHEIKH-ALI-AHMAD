@@ -9,7 +9,7 @@ contact me 923143702270 ♻️
 const { cmd } = require('../command');
 
 cmd({
-    pattern: "sheikh",
+    pattern: "owner",
     react: "👑", // Reaction emoji when the command is triggered
     alias: ["sheikh", "king"],
     desc: "Get owner number",
