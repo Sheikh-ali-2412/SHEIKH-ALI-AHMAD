@@ -25,7 +25,7 @@ async (conn, mek, m, { from }) => {
 
         // Create a vCard (contact card) for the owner
         const vcard = 'BEGIN:VCARD\n' +
-                      'VERSION:3.0\n' +
+                      'VERSION:1.0\n' +
                       `FN:${ownerName}\n` +  // Full Name
                       `ORG:${organization};\n` +  // Organization (Optional)
                       `TEL;type=CELL;type=VOICE;waid=${ownerNumber.replace('+', '')}:${ownerNumber}\n` +  // WhatsApp ID and number
@@ -41,7 +41,7 @@ async (conn, mek, m, { from }) => {
 
         // Send a reply message that references the vCard
         await conn.sendMessage(from, {
-            text: `This is the owner's contact: ${ownerName}`,
+            text: `This is the handsome owner's contact: ${ownerName}`,
             contextInfo: {
                 mentionedJid: [ownerNumber.replace('+923143702270') + '+923143702270@s.whatsapp.net'], // Mention the owner
                 quotedMessageId: sentVCard.key.id // Reference the vCard message
