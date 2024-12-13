@@ -68,6 +68,15 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
  *Now get your inbox and copy sessino id*
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
+### <br>   ❖ DEPLOY_HEROKU ❖
+
+`✠ IF YOU WANT TO DEPLOY SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+
+------------
+ 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 ### <br> ❖ FOR SUPPORT ❖
 
 **`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME 𓄂𝕚𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`**
