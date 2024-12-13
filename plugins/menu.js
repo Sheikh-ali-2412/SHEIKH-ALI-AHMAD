@@ -15,7 +15,7 @@ const axios = require('axios')
 
 cmd({
 
-    pattern: "sheikh",
+    pattern: "sheikh1",
 
     react: "👑",
 
