@@ -50,31 +50,6 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 [![FORK SHEIKH-ALI-AHMAD](https://img.shields.io/badge/FORK%20-SHEIKH%20ALI%20AHMAD-white)](https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD/fork)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%"> 
 
-*Click the SESSION_ID Button*
-### <br>    ❖ SESSION_ID ❖
-
-
-`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
-
-<p align="center">
-<a href="https://webpair-mega-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
-<p/>
-
-
-<p align="center">
-<a href="https://express-pairing-code2-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-2:-black?style=for-the-badge&logo=render"></a>
-<p/>
-
- *Now get your inbox and copy sessino id*
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-### <br>   ❖ DEPLOY_HEROKU ❖
-
-`✠ IF YOU WANT TO DEPLOY SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD)
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 ### <br> ❖ FOR SUPPORT ❖
 
 **`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME 𓄂𝕚𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`**
@@ -110,6 +85,33 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂TH
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+*Click the SESSION_ID Button*
+### <br>    ❖ SESSION_ID ❖
+
+
+`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
+
+<p align="center">
+<a href="https://webpair-mega-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
+<p/>
+
+
+<p align="center">
+<a href="https://express-pairing-code2-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-2:-black?style=for-the-badge&logo=render"></a>
+<p/>
+
+ *Now get your inbox and copy sessino id*
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+### <br>   ❖ DEPLOY_HEROKU ❖
+
+`✠ IF YOU WANT TO DEPLOY SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 </details>
 <hr>
 <img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+ALI+AHMAD+FAROOQ" alt="">
